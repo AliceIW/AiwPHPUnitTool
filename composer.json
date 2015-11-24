@@ -12,17 +12,15 @@
         "php": ">=5.4.0"
     },
     "require-dev": {
-        "require": {
-            "php": ">=5.4.0",
-            "phpunit/phpunit": "4.0.*",
-            "test-db-acle/test-db-acle": "dev-master",
-            "aiw/patch-system": "dev-master",
-            "mockery/mockery": "dev-master"
-        },
-        "autoload": {
-            "psr-0": {
-                "Aiw": "lib/"
-            }
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "4.0.*",
+        "test-db-acle/test-db-acle": "dev-master",
+        "aiw/patch-system": "dev-master",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Aiw": "lib/"
         }
     }
 }
