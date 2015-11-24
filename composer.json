@@ -15,9 +15,11 @@
         "php": ">=5.4.0",
         "phpunit/phpunit": "4.0.*",
         "test-db-acle/test-db-acle": "dev-master",
-        "aiw/patch-system": "dev-master",
         "mockery/mockery": "dev-master"
     },
+    "suggest":{
+         "aiw/patch-system": "A simple patching system to always keep tracks of your changes without worrying about \"Time Travel\"",
+    }
     "autoload": {
         "psr-0": {
             "Aiw": "lib/"
