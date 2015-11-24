@@ -1,5 +1,5 @@
 {
-    "name": "Aiw/PHPUnitTool",
+    "name": "aiw/phpunit-tool",
     "description": "Simplify PHPUnit Testing on ZF2",
     "license": "BSD",
     "authors": [
