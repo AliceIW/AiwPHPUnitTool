@@ -19,7 +19,7 @@
     },
     "suggest":{
          "aiw/patch-system": "A simple patching system to always keep tracks of your changes without worrying about 'Time Travel'",
-    }
+    },
     "autoload": {
         "psr-0": {
             "Aiw": "lib/"
